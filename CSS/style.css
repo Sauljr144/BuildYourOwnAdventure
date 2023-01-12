@@ -1,5 +1,3 @@
-/*Hi feel free to change in any way!*/
-
 
 body
 {
@@ -18,17 +16,7 @@ body
     
 }
 
-.home-title{
-    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-    
-}
-.home-body{
-    
-}
 
-.emily-box{
-   
-}
 .title{
     
     display: flex;
@@ -39,11 +27,6 @@ body
 .flee-box{
     border:1px solid grey;
 }
-.flee-title{
-    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-}
-
-
 
 .myButton
 {
