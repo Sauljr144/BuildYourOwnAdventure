@@ -3,40 +3,65 @@
 
 body
 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Share Tech Mono', monospace;
+    color: rgb(116, 255, 47);
+    background-color: rgb(0, 0, 0);
+    
 }
 
 
 .home-title-box{
-    border:1px solid black;
+    border:1px solid rgb(116, 255, 47);;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    
 }
 
 .home-title{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    
 }
 .home-body{
-    border:1px solid black;
+    
 }
 
 .emily-box{
-    border:1px solid grey;
+   
 }
-.emily-title{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.title{
+    
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
 }
 
 .flee-box{
     border:1px solid grey;
 }
 .flee-title{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-.argument-box{
-    border:1px solid grey;
-}
-.argument-title{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
 
 
+
+.myButton
+{
+    color: black;
+}
+
+a:visited, a:link
+{
+    color: rgb(116, 255, 47);
+}
+
+a:hover
+{
+    color: rgb(242, 255, 0);
+}
+
+.myBold
+{
+    font-size: 20px;
+    font-weight: 1000;
+}
